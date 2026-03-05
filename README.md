@@ -1,12 +1,10 @@
 # Fly360 🚁
 <p align="center">
   <a href="https://zxkai.github.io/fly360/">
-    <img src="https://img.shields.io/badge/Paper-PDF-red?
-    style=for-the-badge">
+    <img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge">
   </a>
   <a href="https://zxkai.github.io/fly360/">
-    <img src="https://img.shields.io/badge/Project-Page-blue?
-    style=for-the-badge">
+    <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge">
   </a>
 </p>
 
