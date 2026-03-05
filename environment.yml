@@ -1,0 +1,5 @@
+name: fly360
+channels:
+  - defaults
+dependencies:
+  - python=3.8

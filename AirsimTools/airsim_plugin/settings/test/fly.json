@@ -1,0 +1,24 @@
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings.md",
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "ClockSpeed": 1,
+  "ViewMode": "FlyWithMe",
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 224,
+        "Height": 224,
+        "FOV_Degrees": 90
+      }
+    ]
+  },
+  "Vehicles": {
+    "Drone_1": {
+      "VehicleType": "SimpleFlight",
+      "AutoCreate": true
+    }
+  },
+  "ApiServerPort": 30001
+}
