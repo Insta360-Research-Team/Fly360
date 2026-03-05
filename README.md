@@ -1,11 +1,8 @@
-# Fly360 🚁
+
+# Fly360 🚁: Omnidirectional Obstacle Avoidance within Drone View
 <p align="center">
-  <a href="https://zxkai.github.io/fly360/">
-    <img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge">
-  </a>
-  <a href="https://zxkai.github.io/fly360/">
-    <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge">
-  </a>
+  <a href=''><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+  <a href='https://zxkai.github.io/fly360/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=insta360&logoColor=white' alt='Project Page'></a>
 </p>
 
 Official code release for **“Fly360: Omnidirectional Obstacle Avoidance within Drone View”**.
@@ -38,13 +35,13 @@ If you run the code with **AirSim360**, you can skip this step.
 
 ## 🧩 Environments
 
-### Option A: AirVLN environments (AirSim+UE)
+### Option A: AirSim environments
 
 We use the AirSim+UE environments from **AirVLN**. Please follow the official instructions in the AirVLN repository to download the simulators/environments, then place them under an `ENVs/` folder **next to this repo** (i.e., in the same workspace directory).
 
 - AirVLN repo: [AirVLN/AirVLN](https://github.com/AirVLN/AirVLN)
 
-### Option B (recommended): AirSim360 platform
+### Option B: AirSim360 platform (recommended)
 
 We also provide an alternative setup and recommend using **AirSim360** to test this code or explore other panoramic + UAV research workflows.
 
@@ -128,7 +125,6 @@ year={2026}
 ## 🙏 Acknowledgements
 
 - [AirSim](https://github.com/microsoft/AirSim)
-- [UniK3D](https://github.com/lpiccinelli-eth/UniK3D) (used for panoramic depth estimation)
-- [AirVLN](https://github.com/AirVLN/AirVLN) (used for AirSim+UE environments)
-- [AirSim360](https://github.com/Insta360-Research-Team/AirSim360) (recommended panoramic simulation platform)
-
+- [UniK3D](https://github.com/lpiccinelli-eth/UniK3D) (code under ./unik3d)
+- [AirVLN](https://github.com/AirVLN/AirVLN)
+- [AirSim360](https://github.com/Insta360-Research-Team/AirSim360) 
