@@ -128,6 +128,6 @@ year={2026}
 ## 🙏 Acknowledgements
 
 - [AirSim](https://github.com/microsoft/AirSim)
-- [UniK3D](https://github.com/lpiccinelli-eth/UniK3D) (code under ./unik3d)
+- [UniK3D](https://github.com/lpiccinelli-eth/UniK3D)
 - [AirVLN](https://github.com/AirVLN/AirVLN)
 - [AirSim360](https://github.com/Insta360-Research-Team/AirSim360) 
