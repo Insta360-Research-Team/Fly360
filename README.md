@@ -5,7 +5,7 @@
   <a href='https://zxkai.github.io/fly360/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=insta360&logoColor=white' alt='Project Page'></a>
 </p>
 
-![teaser](assets/teaserfinal_01.png)
+![teaser](assets/teaser01.jpg)
 
 Official code release for **“Fly360: Omnidirectional Obstacle Avoidance within Drone View”**.
 
