@@ -5,6 +5,8 @@
   <a href='https://zxkai.github.io/fly360/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=insta360&logoColor=white' alt='Project Page'></a>
 </p>
 
+![teaser](assets/teaserfinal_01.png)
+
 Official code release for **“Fly360: Omnidirectional Obstacle Avoidance within Drone View”**.
 
 Fly360 maps 🌐 **360° panoramic RGB (ERP)** to **body-frame velocity commands** via a depth-as-intermediate pipeline and a lightweight spherical-conv recurrent policy.
@@ -103,6 +105,7 @@ Run the demo:
 python demo_airsim.py --env Park --env_scene 1 --resume weights/fly360.pth
 ```
 
+## 🚁 Quickstart (AirSim360)
 You can also try:
 
 ```bash
