@@ -121,7 +121,7 @@ If you find this code useful, please cite:
 ```bibtex
 @article{fly360_2026,
 title={Fly360: Omnidirectional Obstacle Avoidance Within Drone View},
-author={Xiangkai Zhang and Dizhe Zhang and Lu Qi and Xu Yang and Zhiyong Liu},
+author={Xiangkai Zhang and Dizhe Zhang and Wenzhuo Cao and Zhaoliang Wan and Yingjie Niu and Lu Qi and Xu Yang and Zhiyong Liu},
 archivePrefix={arxiv},
 year={2026}
 }
