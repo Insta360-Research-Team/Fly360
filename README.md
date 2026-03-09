@@ -1,7 +1,7 @@
 
 # Fly360 🚁: Omnidirectional Obstacle Avoidance within Drone View
 <p align="center">
-  <a href=''><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+  <a href='https://arxiv.org/pdf/2603.06573'><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
   <a href='https://zxkai.github.io/fly360/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=insta360&logoColor=white' alt='Project Page'></a>
 </p>
 
